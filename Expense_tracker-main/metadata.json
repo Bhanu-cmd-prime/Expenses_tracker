@@ -1,0 +1,8 @@
+
+{
+  "name": "SplitSmart AI",
+  "description": "A high-fidelity expense sharing application with intelligent categorization and automated balance simplification, featuring equal, exact, and percentage splits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
